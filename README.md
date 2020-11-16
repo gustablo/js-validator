@@ -1,2 +1,7 @@
-# js-validator
-a simple js validator
+# Description
+a simple js-validator
+
+## Run
+```bash
+    $ node index.js
+```
